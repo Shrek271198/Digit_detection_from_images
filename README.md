@@ -33,8 +33,8 @@ $ pip3 install -r requirement.txt
 ```
 
 #### v) This step is for Windows users only (For Linux users, skip this step)
-##### - Since this will require showing images we need to download a software called Xming to display the images when running the Python Program.
-> To download Xming, follow this link and click download: https://sourceforge.net/projects/xming/
+#### > Since this will require showing images we need to download a software called Xming to display the images when running the Python Program.
+#### > To download Xming, follow this link and click download: https://sourceforge.net/projects/xming/
 
 
 
