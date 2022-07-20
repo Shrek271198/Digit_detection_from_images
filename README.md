@@ -41,7 +41,7 @@ $ pip3 install -r requirement.txt
 ```shell
 $ xeyes
 ```
-- If you see pop-up with eyes, it works!
+- If you see a small pop-up window with eyes, it works!
 - if you don't see it, maybe try another version of Xming.
 
 #### vi) Now to run the code:
