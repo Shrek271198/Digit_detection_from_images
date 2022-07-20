@@ -21,6 +21,17 @@ To run the code in Python, first we need to get the environment.
 $ pip3 install virtualenv
 ```
 
+#### 3) Activate the Virtual Environment
+```shell
+$ python3 -m venv env
+$ source env/bin/activate
+```
+
+#### 4) Install the required packages
+```shell
+$ pip3 install -r requirement.txt
+```
+
 
 
 
