@@ -32,6 +32,10 @@ $ source env/bin/activate
 $ pip3 install -r requirement.txt
 ```
 
+#### 5) This step is for Windows users only (For Linux users, skip this step)
+*hi
+
+
 
 
 
