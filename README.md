@@ -11,5 +11,8 @@ To run the code in Python, first we need to get the environment.
 - If you using Windows, get the Linux Terminal from Microsoft Store (search up on Google if you don't know how to get around this).
 
 
+## After doing git clone of this folder, follow these commands:
+
+
 
 
