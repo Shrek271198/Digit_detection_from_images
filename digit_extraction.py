@@ -16,7 +16,7 @@ testFeaturesLabel = []
 
 for digit in range(0,10):
     label = digit
-    training_directory = "/mnt/c/workspace/machinePerception/train/" +  str(label) + "/"
+    training_directory = str(os.getcwd()) + "/train/" +  str(label) + "/"
     for index, filename in enumerate(os.listdir(training_directory)):
         
         if filename.endswith(".jpg"):
@@ -87,7 +87,7 @@ print("accuracy " + str(accuracy))
 #-------------------------------------------------------------------------
 
 # The directory of where the images are located
-img_dir = "/mnt/c/workspace/machinePerception/test/"
+img_dir = str(os.getcwd()) + "/test/"
 
 for index, filename in enumerate(os.listdir(img_dir)):
     if filename.endswith(".jpg"):
@@ -420,7 +420,7 @@ for index, filename in enumerate(os.listdir(img_dir)):
                 xR = xR - 1 
                 #print(xR)
 
-        img_dir_save = "/mnt/c/workspace/machinePerception/output/"
+        img_dir_save = str(os.getcwd()) + "/output/"
 
 
         imgCroppedCropped = imgCropped[yT : yB, xL : xR]
