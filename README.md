@@ -12,9 +12,11 @@ To run the code in Python, first we need to get the environment.
 - If you are using Linux, just open a directory and run the following commands. 
 - If you using Windows, get the Linux Terminal from Microsoft Store (search up on Google if you don't know how to get around this).
 
-### After doing git clone of this folder, follow these commands:
+## Follow the steps to get started:
 
-#### 1) Install Virtual Environment
+#### 1) Git clone the repository and extract the "train.zip" folder
+
+#### 2) Install Virtual Environment
 ```shell
 $ pip3 install virtualenv
 ```
