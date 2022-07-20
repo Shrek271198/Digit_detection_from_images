@@ -37,6 +37,13 @@ $ pip3 install -r requirement.txt
 
 > To download Xming, follow this link and click download: 
    - https://sourceforge.net/projects/xming/
+> After Xming is downloaded, run the following command to see if it works.
+```shell
+$ xeyes
+```
+- If you see pop-up with eyes, it works!
+- if you don't see it, maybe try another version of Xming.
+
 
 
 
