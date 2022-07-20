@@ -4,7 +4,7 @@ Program to read and detect numbers on an image.
 # 1) Description of Project
 This project aims to use the library called OpenCV (open Computer Vision) in Python to locate numbers and then predict the number from an image an write it to an output file.
 
-At the moment, the program works for white (light) coloured numbers with a black background.
+At the moment, the program works for white (light) coloured numbers with a black background. You can see the photos within the test folder and can even add your own images too!!
 
 # 2) Getting started
 To run the code in Python, first we need to get the environment. 
