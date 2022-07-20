@@ -32,7 +32,7 @@ $ source env/bin/activate
 $ pip3 install -r requirement.txt
 ```
 
-#### v) This step is for **Windows** users only (For Linux users, skip this step)
+#### v) This step is for *Windows* users only (For Linux users, skip this step)
 > When the Python file is run, it will display images. To view them, a software called Xming needs to be downloaded. 
 
 > a) To download Xming, follow this link and click download: 
@@ -44,7 +44,15 @@ $ xeyes
 - If you see pop-up with eyes, it works!
 - if you don't see it, maybe try another version of Xming.
 
-#### vi) Now to 
+#### vi) Now to run the code 
+```shell
+$ python3 digit_extraction.py
+```
+> The code will take some time to run...
+> Just press enter to run through the images, and you can see what number is detected in the "Output folder"!
+
+
+# We are done! 
 
 
 
