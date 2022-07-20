@@ -1,10 +1,10 @@
 # Machine-Perception
 Program to read and detect numbers on an image.
 
-# Description
+# 1) Description of Project
 This project aims to use the library called OpenCV (open Computer Vision) in Python to locate numbers and then predict the number from an image an write it to an output file.
 
-# Getting started
+# 2) Getting started
 To run the code in Python, first we need to get the environment. 
 
 ## NOTE:
@@ -14,26 +14,26 @@ To run the code in Python, first we need to get the environment.
 
 ## Follow the steps to get started:
 
-#### 1) Git clone the repository and extract the "train.zip" folder
+#### i) Git clone the repository and extract the "train.zip" folder
 
-#### 2) Install Virtual Environment
+#### ii) Install Virtual Environment
 ```shell
 $ pip3 install virtualenv
 ```
 
-#### 3) Activate the Virtual Environment
+#### iii) Activate the Virtual Environment
 ```shell
 $ python3 -m venv env
 $ source env/bin/activate
 ```
 
-#### 4) Install the required packages
+#### iv) Install the required packages
 ```shell
 $ pip3 install -r requirement.txt
 ```
 
-#### 5) This step is for Windows users only (For Linux users, skip this step)
-*hi
+#### v) This step is for Windows users only (For Linux users, skip this step)
+dfdg
 
 
 
