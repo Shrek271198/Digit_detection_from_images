@@ -12,6 +12,11 @@ To run the code in Python, first we need to get the environment.
 
 ### After doing git clone of this folder, follow these commands:
 
+#### 1) Install Virtual Environment
+```shell
+$ pip3 install virtualenv
+```
+
 
 
 
