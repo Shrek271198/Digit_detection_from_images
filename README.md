@@ -33,7 +33,7 @@ $ pip3 install -r requirement.txt
 ```
 
 #### v) This step is for Windows users only (For Linux users, skip this step)
-dfdg
+##### Since this will require showing images we need to download a software called Xming to display the images when running the Python Program.
 
 
 
