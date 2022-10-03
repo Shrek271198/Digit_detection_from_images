@@ -1,4 +1,4 @@
-# Machine-Perception
+# Digit Detection From Images
 Program to read and detect numbers on an image.
 
 # 1) Description of Project
