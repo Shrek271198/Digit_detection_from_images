@@ -27,7 +27,7 @@ At the moment, the program works for white (light) coloured numbers with a black
 
 ![ExtractedDigitRight2](https://user-images.githubusercontent.com/48969261/196024528-21bbf591-2927-4045-8d6d-3d7a77570795.jpg)
 
-# 2) Getting started
+# 2) Getting Started
 To run the code in Python, first we need to get the environment. 
 
 ## NOTE:
