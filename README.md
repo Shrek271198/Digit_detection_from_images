@@ -1,5 +1,6 @@
 # Digit Detection From Images
 Program to read and detect numbers on an image. 
+
 **I have made it very easy to follow here and simple words and easy steps!**
 
 # 1) Description of Project
