@@ -8,6 +8,14 @@ This project aims to use the library called OpenCV (open Computer Vision) in Pyt
 
 At the moment, the program works for white (light) coloured numbers with a black background. You can see the photos within the **"test"** folder and can even add your own images too!!
 
+![test02](https://user-images.githubusercontent.com/48969261/196024500-cf72f1f9-e7a2-4181-a7f5-8087f8306689.jpg)
+
+![DetectedArea02](https://user-images.githubusercontent.com/48969261/196024523-5d7bf711-d54e-4a1b-a364-0a4b4895cb66.jpg)
+
+![ExtractedDigitLeft2](https://user-images.githubusercontent.com/48969261/196024524-135df294-a870-464b-9372-080bd9cdb96f.jpg)
+
+![ExtractedDigitRight2](https://user-images.githubusercontent.com/48969261/196024528-21bbf591-2927-4045-8d6d-3d7a77570795.jpg)
+
 # 2) Getting started
 To run the code in Python, first we need to get the environment. 
 
